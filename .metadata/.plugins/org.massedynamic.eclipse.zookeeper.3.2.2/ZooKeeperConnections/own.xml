@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Connection Name="own" SessionTimeout="5000" Version="1">
-<ZooKeeperServers>
-<ZooKeeperServer Host="67.218.143.35" Port="2181"/>
-</ZooKeeperServers>
-<AuthInfos/>
-</Connection>
